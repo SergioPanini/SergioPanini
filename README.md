@@ -3,8 +3,8 @@
 I am Junior+ backend developer.
 
 ### Hard skils
-<image src="https://img.shields.io/badge/-Python-yellow">
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/serindgan)
  
