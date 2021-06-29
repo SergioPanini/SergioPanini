@@ -3,7 +3,7 @@
 I am Junior+ backend developer.
 
 ### Hard skils
-* Python <image src="https://img.shields.io/badge/- %20-green">]
+* Python <image src="https://img.shields.io/badge/- %20-green"><image src="https://img.shields.io/badge/- %20-green"><image src="https://img.shields.io/badge/- %20-green"><image src="https://img.shields.io/badge/- %20-red"><image src="https://img.shields.io/badge/- %20-red">
 * Django
 * SQL
 * Docker
