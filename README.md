@@ -4,7 +4,10 @@ I am Junior+ backend developer.
 
 ### Hard skils
 <image src="https://img.shields.io/badge/-Python-yellow">
+
+### Contacts
   
+ 
   <!--
 **SergioPanini/SergioPanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
