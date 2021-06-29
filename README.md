@@ -4,11 +4,11 @@ I am Junior+ backend developer.
 
 ### Hard skils
 * Python    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* Django
-* SQL
-* Docker
-* Linux
-* RabbiMQ
+* Django    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
+* SQL       <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
+* Docker    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
+* Linux     <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
+* RabbiMQ   <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
 
 
 <!--
