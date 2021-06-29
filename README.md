@@ -3,15 +3,9 @@
 I am Junior+ backend developer.
 
 ### Hard skils
-* Python    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* Django    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* SQL       <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* Docker    <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* Linux     <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-* RabbiMQ   <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-green"> <image src="https://img.shields.io/badge/- %20-red"> <image src="https://img.shields.io/badge/- %20-red">
-
-
-<!--
+<image src="https://img.shields.io/badge/-Python-yellow">
+  
+  <!--
 **SergioPanini/SergioPanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
