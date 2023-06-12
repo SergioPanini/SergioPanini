@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am junior+ python backend developer
+I am middle python backend developer
 
 ### Hard skils
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
